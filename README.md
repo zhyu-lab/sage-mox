@@ -11,5 +11,3 @@ Local-Global Fusion and Alignment-Complementary Cross-Omics Integration for Spat
 - scipy==1.10.1
 - anndata==0.9.2
 - episcanpy == 0.3.2
-- tqdm: 4.67.3
-- termcolor: 3.1.0
