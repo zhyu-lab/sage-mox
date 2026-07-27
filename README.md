@@ -59,18 +59,6 @@ The A1 dataset is used by default, so it can also be run using:
 python main.py
 ```
 
-## Main Arguments
-
-| Argument | Default | Description |
-|---|---:|---|
-| `--name` | `Human_Lymph_Node_A1` | Dataset name |
-| `--device` | `cuda:0` | Computing device |
-| `--k` | `10` | Number of neighbors in the feature graph |
-| `--spatial_k` | `10` | Number of neighbors in the spatial graph |
-| `--z_dim` | `20` | Latent representation dimension |
-| `--tau` | `0.1` | Structural consistency threshold |
-
-Additional parameters are provided in `opt.py`.
 
 ## Output and Evaluation
 
