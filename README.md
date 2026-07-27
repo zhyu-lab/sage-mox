@@ -43,7 +43,6 @@ data/
         └── label.npy
 ```
 
-The RNA AnnData object should contain spatial coordinates in `adata.obsm["spatial"]`.
 
 ## Usage
 
